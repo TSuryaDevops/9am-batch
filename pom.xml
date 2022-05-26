@@ -33,7 +33,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.198.157:8081/repository/ surya_Release /</url>
+            <url>http://192.168.198.157:8081/repository/surya_Release /</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
