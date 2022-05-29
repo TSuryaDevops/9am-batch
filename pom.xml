@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.198.163:8081/repository/mvnproject_Release /</url>
+            <url>http://192.168.198.165:8081/repository/project_Release /</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.198.163:8081/repository/mvnproject_Snap /</url>
+            <url>http://192.168.198.165:8081/repository/project_Snap /</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
